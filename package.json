@@ -1,0 +1,23 @@
+{
+  "name": "nome-aleatorio",
+  "version": "0.0.0",
+  "description": "Obter um nome aleatório.",
+  "main": "index.js",
+  "dependencies": {
+    "random-int": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theuves/nome-aleatorio.git"
+  },
+  "author": "Matheus Alves",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theuves/nome-aleatorio/issues"
+  },
+  "homepage": "https://github.com/theuves/nome-aleatorio#readme"
+}

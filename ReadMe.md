@@ -1,6 +1,6 @@
 # `nome-aleatorio`
 
-> Obter um [nome](https://pt.wikipedia.org/wiki/Lista_de_nomes_portugueses) aleátorio.
+> Obter um [nome](https://pt.wikipedia.org/wiki/Lista_de_nomes_portugueses) (português) aleátorio.
 
 **Instalação**: `npm install --save nome-aleatorio`.
 

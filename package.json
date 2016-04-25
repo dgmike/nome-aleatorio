@@ -1,7 +1,7 @@
 {
   "name": "nome-aleatorio",
   "version": "0.0.1",
-  "description": "Obter um nome aleatório.",
+  "description": "Obter um nome (português) aleatório.",
   "main": "index.js",
   "dependencies": {
     "random-int": "^1.0.0"

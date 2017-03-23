@@ -6,18 +6,7 @@
   "dependencies": {
     "random-int": "^1.0.0"
   },
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/theuves/nome-aleatorio.git"
-  },
+  "repository": "theuves/nome-aleatorio",
   "author": "Matheus Alves",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/theuves/nome-aleatorio/issues"
-  },
-  "homepage": "https://github.com/theuves/nome-aleatorio#readme"
+  "license": "MIT"
 }

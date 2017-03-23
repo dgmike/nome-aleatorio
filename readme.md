@@ -1,6 +1,6 @@
 # nome-aleatorio
 
-> Obter nomes (portugueses) aleátorio.
+> Obter um nome (português) aleatório.
 
 Instale com `npm install --save nome-aleatorio`.
 

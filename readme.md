@@ -1,16 +1,12 @@
-# `nome-aleatorio`
+# nome-aleatorio
 
-> Obter um [nome](https://pt.wikipedia.org/wiki/Lista_de_nomes_portugueses) (português) aleátorio.
+> Obter nomes (portugueses) aleátorio.
 
-**Instalação**: `npm install --save nome-aleatorio`.
+Instale com `npm install --save nome-aleatorio`.
 
-## Uso
-
-Veja um exemplo:
-
-```javascript
-var nomeAleatorio = require('nome-aleatorio');
+```js
+var nomeAleatorio = require("nome-aleatorio");
 
 console.log(nomeAleatorio());
-//=> 'Salvador'
+//=> "Salvador"
 ```

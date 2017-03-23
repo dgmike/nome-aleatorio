@@ -1,6 +1,6 @@
 {
   "name": "nome-aleatorio",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Obter um nome (português) aleatório.",
   "main": "index.js",
   "dependencies": {

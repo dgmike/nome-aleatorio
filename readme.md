@@ -4,6 +4,8 @@
 
 ## Instalação
 
+Para instalá-lo, faça:
+
 ```
 $ npm install --save nome-aleatorio
 ```

@@ -4,7 +4,8 @@
   "description": "Obter um nome (português) aleatório.",
   "main": "index.js",
   "dependencies": {
-    "random-int": "^1.0.0"
+    "random-int": "^1.0.0",
+    "remover-acentos": "0.0.6"
   },
   "repository": "theuves/nome-aleatorio",
   "author": "Matheus Alves",

@@ -21,6 +21,19 @@ nomeAleatório({letter: "h", accents: false}); //=> "Heloisa"
 nomeAleatório({letter: "h", accents: false, lowercase: true}); //=> "heloisa"
 ```
 
+### Opções
+
+```
+// Padrão.
+{ letter: undefined,
+  lowecase: false
+  accents: true }
+```
+
+* `letter` (string) ― Retornar nomes com determinada inicial.
+* `lowercase` (boolean) ― Retornar nomes em caixa baixa.
+* `accents` (boolean) ― Retornar nomes sem acentos.
+
 ## Licença
 
 MIT

@@ -21,14 +21,19 @@ nomeAleatório({letter: "h", accents: false}); //=> "Heloisa"
 nomeAleatório({letter: "h", accents: false, lowercase: true}); //=> "heloisa"
 ```
 
-### Opções
+### nomeAleatorio(*[opcoes]*)
+
+Onde `opcoes` deve ser um objeto (Object).
+
+Por padrão ele é:
 
 ```js
-// Padrão.
 { letter: undefined,
   lowecase: false,
   accents: true }
 ```
+
+Onde:
 
 * `letter` (string) ― Retornar nomes com determinada inicial.
 * `lowercase` (boolean) ― Retornar nomes em caixa baixa.

@@ -12,6 +12,8 @@ $ npm install --save nome-aleatorio
 
 ## Uso
 
+Importe-o com:
+
 ```js
 var nomeAleatorio = require("nome-aleatorio");
 ```

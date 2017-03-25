@@ -23,7 +23,7 @@ nomeAleatório({letter: "h", accents: false, lowercase: true}); //=> "heloisa"
 
 ### Opções
 
-```
+```js
 // Padrão.
 { letter: undefined,
   lowecase: false

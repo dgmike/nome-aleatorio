@@ -22,13 +22,13 @@ Veja abaixo alguns exemplos:
 
 ```js
 nomeAleatorio(); //=> "Lavínia"
-nomeAleatório({accents: false}); //=> "Lavinia"
-nomeAleatório({accents: lowercase: true}); //=> "lavinia"
+nomeAleatorio({accents: false}); //=> "Lavinia"
+nomeAleatorio({accents: lowercase: true}); //=> "lavinia"
 
 // Por letra.
 nomeAleatorio({letter: "h"}); //=> "Heloísa"
-nomeAleatório({letter: "h", accents: false}); //=> "Heloisa"
-nomeAleatório({letter: "h", accents: false, lowercase: true}); //=> "heloisa"
+nomeAleatorio({letter: "h", accents: false}); //=> "Heloisa"
+nomeAleatorio({letter: "h", accents: false, lowercase: true}); //=> "heloisa"
 ```
 
 ### nomeAleatorio(*[opcoes]*)

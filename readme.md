@@ -2,15 +2,21 @@
 
 > Obter um nome (português) aleatório.
 
-Instale-o com o comando`npm install --save nome-aleatorio`.
+## Instalação
 
-## Exemplos
+```
+$ npm install --save nome-aleatorio
+```
+
+## Uso
+
+```js
+var nomeAleatorio = require("nome-aleatorio");
+```
 
 Veja abaixo alguns exemplos:
 
 ```js
-var nomeAleatorio = require("nome-aleatorio");
-
 nomeAleatorio(); //=> "Lavínia"
 nomeAleatório({accents: false}); //=> "Lavinia"
 nomeAleatório({accents: lowercase: true}); //=> "lavinia"

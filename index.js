@@ -13,7 +13,7 @@ module.exports = function (opcoes) {
   var nome;
 
   if (opcoes.letter && typeof opcoes.letter === "string") {
-    opcoes.letter = opcoes.letter.charAt(0);
+    opcoes.letter = opcoes.letter[0].toLowerCase();
 
     nome = nomes[opcoes.letter][random(nomes[opcoes.letter].length - 1)];
   } else {

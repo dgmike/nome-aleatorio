@@ -23,7 +23,7 @@ nomeAleatório({letter: "h", accents: false, lowercase: true}); //=> "heloisa"
 
 ### nomeAleatorio(*[opcoes]*)
 
-Onde `opcoes` deve ser um objeto (Object).
+Onde `opcoes` deve ser um objeto.
 
 Por padrão ele é:
 
